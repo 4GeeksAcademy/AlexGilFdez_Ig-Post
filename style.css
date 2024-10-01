@@ -1,0 +1,39 @@
+body {
+    background-color:black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.post {
+    background-color: white;
+
+}
+
+i {
+font-size: 30px;
+}
+
+.post-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.username {
+    display: flex;
+align-items: center;
+}
+.fa-regular {
+    padding: 10px;
+}
+.body-icons {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+p {
+    font-family: "Roboto", sans-serif;
+}
+.text {
+    padding-left: 10px;
+}
