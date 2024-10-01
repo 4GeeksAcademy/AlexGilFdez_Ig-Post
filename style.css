@@ -7,7 +7,7 @@ body {
 }
 .post {
     background-color: white;
-
+margin: 100px;
 }
 
 i {
@@ -24,6 +24,9 @@ font-size: 30px;
 align-items: center;
 }
 .fa-regular {
+    padding: 10px;
+}
+.fa-solid {
     padding: 10px;
 }
 .body-icons {
